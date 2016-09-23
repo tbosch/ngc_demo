@@ -1,0 +1,17 @@
+{
+  "name": "ngc_example",
+  "version": "1.0.0",
+  "devDependencies": {
+    "rxjs": "^5.0.0-beta.6",
+    "zone.js": "^0.6.12",
+    "typescript": "^2.0.0",
+    "@angular/core": "^2.0.0",
+    "@angular/common": "^2.0.0",
+    "@angular/compiler": "^2.0.0",
+    "@angular/compiler-cli": "^0.6.2",
+    "@angular/platform-browser": "^2.0.0",
+    "@angular/platform-server": "^2.0.0"
+  },
+  "author": "tbosch@google.com",
+  "license": "MIT"
+}

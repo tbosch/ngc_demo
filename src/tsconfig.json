@@ -1,0 +1,20 @@
+{
+    "angularCompilerOptions": {
+      "genDir": "../srcgen",
+      "debug": false
+    },
+    "compilerOptions": {
+        "target": "es5",
+        "experimentalDecorators": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "rootDir": "",
+        "outDir": "../dist",
+        "declaration": true,
+        "lib": ["es6", "dom"],
+        "baseUrl": "."
+    },
+    "files": [
+        "my_app.ts"
+    ]
+}

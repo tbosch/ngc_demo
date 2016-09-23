@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "experimentalDecorators": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "rootDirs": ["./src", "./srcgen"],
+        "outDir": "./dist",
+        "declaration": true,
+        "lib": ["es6", "dom"],
+        "baseUrl": "."
+    }
+}
